@@ -1,0 +1,38 @@
+* {
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+}
+
+html {
+  background-color: #ECECEC;
+}
+
+.btn-primary {
+  padding: 11px 16px;
+  background-color: #375673;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-text {
+  padding: 11px 16px;
+  background-color: transparent;
+  border: none;
+}
+
+.btn-small {
+  cursor: pointer;
+  padding: 4px 16px;
+}
+
+.btn-small:hover {
+  background-color: rgba(0,0,0,0.1);
+}
+
+.text-field {
+  border-radius: 5px;
+  padding: 11px 16px;
+  border: 1px solid #E0E2E4;
+}
+
